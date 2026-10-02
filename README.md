@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 ## Dynamic Programming
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Sliding Window
