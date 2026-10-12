@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0946-validate-stack-sequences](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0946-validate-stack-sequences) |
 ## Design
 |  |
 | ------- |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
+| [0946-validate-stack-sequences](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0946-validate-stack-sequences) |
 ## Bracket Sequences
 |  |
 | ------- |
