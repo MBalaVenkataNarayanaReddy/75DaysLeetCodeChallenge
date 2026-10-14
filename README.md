@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0134-gas-station) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
