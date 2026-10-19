@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
@@ -539,4 +542,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/MBalaVenkataNarayanaReddy/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
